@@ -10,7 +10,7 @@ import UIKit
 class DetailViewController: UIViewController {
     
     var movie: Movie!
-    var movieName: String!
+    
     
     @IBOutlet weak var posterImageView: UIImageView!
     @IBOutlet weak var titleLabel: UILabel!
